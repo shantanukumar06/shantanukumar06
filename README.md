@@ -1,9 +1,3 @@
-+## Hi there 👋
-
-<!--
-**shantanukumar06/shantanukumar06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 ![images](https://github.com/user-attachments/assets/91ade1b7-e0df-4a1e-8137-76e43032e56c)
 
